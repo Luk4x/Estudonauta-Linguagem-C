@@ -1,2 +1,2 @@
 # Estudonauta-Linguagem-C
-Exercícios feitos por mim, propostos no curso de Linguagem C do Estudonauta.com.
+Exercícios feitos por mim, propostos no curso de Linguagem C do Estudonauta.com, usando o Code::Blocks.
